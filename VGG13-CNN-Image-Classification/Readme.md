@@ -84,7 +84,7 @@ You can find the code for the entire project in the `VGG_Classification_CNN.ipyn
 
 ## Detailed Report
 
-A comprehensive report detailing the model architecture, training process, evaluation metrics, and performance graphs is available in `report.pdf`.
+A comprehensive report detailing the model architecture, training process, evaluation metrics, and performance graphs is available in `CNN report.pdf`.
 
 ## Contact
 
